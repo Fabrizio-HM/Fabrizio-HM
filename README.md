@@ -10,25 +10,24 @@
 
 <p align="center"> 
 
-  <!-- Profile Views -->
   <img 
     src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic" 
-    alt="Profile views" 
+    alt="7oSkaaa" 
     height="25px" 
     width="160px"
-  />
+  /> 
 
-  <br><br>
+  <br>
 
-  <!-- Fake 404 Badge (always shows 404 Badge Not Found) -->
-  <a href="#">
+  <a href="https://twitter.com/" target="blank">
     <img 
       src="https://img.shields.io/badge/404-Badge%20Not%20Found-red?style=for-the-badge" 
-      alt="404 Badge Not Found"
+      alt="404 Badge Not Found" 
     />
   </a>
 
 </p>
+
 
 
 </p>
