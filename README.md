@@ -8,27 +8,11 @@
 
 <br>
 
-<p align="center"> 
-
-  <img 
-    src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic" 
-    alt="7oSkaaa" 
-    height="25px" 
-    width="160px"
-  /> 
-
-  <br>
-
-  <a href="https://twitter.com/" target="blank">
-    <img 
-      src="https://img.shields.io/badge/404-Badge%20Not%20Found-red?style=for-the-badge" 
-      alt="404 Badge Not Found" 
-    />
-  </a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> <!--- <a href = "https://commits.top/egypt.html" target="_blank"> <img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> </a> --> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 
 </p>
 
-
+</p>
 
 	
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50"></picture> Languages and Tools
