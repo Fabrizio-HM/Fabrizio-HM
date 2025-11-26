@@ -66,7 +66,6 @@
 
 - :school: I was a `Cybersecurity Engineering` student at [SENATI](https://www.senati.edu.pe/), a higher technological institute.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Accounting` to expand my skills in `Odoo`.
 - :speaking_head: I am working towards my B1 level in English `(IPCNA)`
 - :nerd_face: Always `learning new things`.
