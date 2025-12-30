@@ -83,24 +83,22 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/TU_USERNAME">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+      <a href="https://github.com/Fabrizio-HM">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabrizio-HM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/TU_USERNAME">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=algolia" />
+      <a href="https://github.com/Fabrizio-HM">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio-HM&layout=compact&langs_count=8&theme=algolia" />
       </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabrizio-HM&theme=dark&hide_border=true" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-<br><br>
 
 
 
