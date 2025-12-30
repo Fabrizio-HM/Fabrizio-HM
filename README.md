@@ -95,9 +95,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Fabrizio-HM&theme=dark&hide_border=true" />
-</p>
 
 
 
