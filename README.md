@@ -84,20 +84,22 @@
   <tr>
     <td>
       <a href="https://github.com/Fabrizio-HM">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fabrizio-HM&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true&amp;v=3" />
+        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabrizio-HM&theme=algolia" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Fabrizio-HM">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabrizio-HM&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;v=3" />
+        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabrizio-HM&theme=algolia" />
       </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Fabrizio-HM&amp;theme=dark&amp;hide_border=true&amp;v=3" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Fabrizio-HM&theme=dark&hide_border=true" />
 </p>
+
+
 
 
 
