@@ -84,20 +84,21 @@
   <tr>
     <td>
       <a href="https://github.com/Fabrizio-HM">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabrizio-HM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=86400&v=2" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fabrizio-HM&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true&amp;v=3" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Fabrizio-HM">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabrizio-HM&layout=compact&langs_count=8&theme=algolia&cache_seconds=86400&v=2" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabrizio-HM&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;v=3" />
       </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Fabrizio-HM&theme=dark&hide_border=true&v=2" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Fabrizio-HM&amp;theme=dark&amp;hide_border=true&amp;v=3" />
 </p>
+
 
 
 
