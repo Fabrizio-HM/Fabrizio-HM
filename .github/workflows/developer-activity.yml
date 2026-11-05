@@ -20,6 +20,10 @@ jobs:
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/combined_snake.py
+      - name: Generate GitHub language chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/language_stats.py
       - name: Publish SVGs to activity-stats branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
