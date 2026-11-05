@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi , I'm Fabrizio Mori <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Cybersecurity+Technician;Odoo+Expert;Video+Game+Creator;Experience+in+Unity;Always+learning+new+things" />
@@ -83,6 +84,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabrizio-HM&theme=tokyonight" height="175" alt="Fabrizio GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabrizio-HM&theme=tokyonight" height="175" alt="Languages by Repository" />
+</p>
+
+### 📊 GitHub + GitLab Development Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fabrizio-HM/Fabrizio-HM/activity-stats/developer-activity.svg" alt="GitHub and GitLab development activity" width="95%">
 </p>
 
 ## 📬 Connect with me
