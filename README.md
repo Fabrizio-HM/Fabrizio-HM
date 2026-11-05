@@ -83,7 +83,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabrizio-HM&theme=tokyonight" height="175" alt="Fabrizio GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabrizio-HM&theme=tokyonight" height="175" alt="Languages by Repository" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrizio-HM&layout=donut&theme=tokyonight&langs_count=6&hide_border=true" height="175" alt="Languages by Repository" />
 </p>
 
 ### 📊 GitHub + GitLab Development Activity
