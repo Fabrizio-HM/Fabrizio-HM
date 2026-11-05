@@ -15,7 +15,12 @@ jobs:
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/activity_stats.py
-      - name: Publish SVG to activity-stats branch
+      - name: Generate combined contribution snake
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/combined_snake.py
+      - name: Publish SVGs to activity-stats branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: activity-stats
