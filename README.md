@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Cybersecurity+Technician;Odoo+Expert;Video+Game+Creator;Experience+in+Unity;Always+learning+new+things" />
 </p>
 
+<p align="center">
+  <a href="https://nexorasystemsmd.com" target="_blank">
+    <img src="https://img.shields.io/badge/MI_PORTAFOLIO-Explorar_proyectos-986BF4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar mi portafolio profesional" />
+  </a>
+</p>
+
 
 
 <br>
